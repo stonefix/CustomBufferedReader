@@ -1,6 +1,6 @@
 # CustomBufferedReader
 
-An try was to implement BufferReader.
+A try was to implement BufferReader.
 
 [Original] - a link to original
 
